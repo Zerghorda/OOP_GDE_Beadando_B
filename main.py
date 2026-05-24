@@ -5,7 +5,7 @@ from models.FoglalasKezelo import FoglalasKezelo
 
 
 def inicializalas():
-    lt = LegiTarsasag("Air Python")
+    lt = LegiTarsasag("Air Force")
 
     j1 = BelfoldiJarat("B101", "Debrecen", 10000)
     j2 = BelfoldiJarat("B102", "Szeged", 12000)

@@ -1,4 +1,3 @@
-from models.JegyFoglalas import JegyFoglalas
 
 class FoglalasKezelo:
     def __init__(self, legitarsasag):
